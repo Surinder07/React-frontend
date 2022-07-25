@@ -1,4 +1,11 @@
+# react front end
+
+This project is dependent on springboot backend project which exposes all the api's GET/POST/PUT/DELETE
+Mysql is used as database
+
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
